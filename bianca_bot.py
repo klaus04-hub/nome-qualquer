@@ -379,7 +379,7 @@ class BiancaBot:
 
 if __name__ == "__main__":
     # Configurar tokens (usar variáveis de ambiente em produção)
-    TELEGRAM_TOKEN = "SEU_TOKEN_DO_TELEGRAM"
+    TELEGRAM_TOKEN = "8524075669:AAFWYS7ntdyWgn5csp_Eu5nC-oR9D5ivYg4"
     ANTHROPIC_API_KEY = "SUA_CHAVE_API_ANTHROPIC"
     
     bot = BiancaBot(TELEGRAM_TOKEN, ANTHROPIC_API_KEY)
